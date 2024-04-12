@@ -1,6 +1,7 @@
 import { ContenedorPrincipal } from "../componentes/Contenedores";
 import { BurbujaContenedorTipo } from "../componentes/ComponentesSelectorTIpo";
 import { H3 } from "../componentes/ComponentesPrincipales";
+
 import styled from 'styled-components';
 import camisasType from '../img/ropa/imgTipos/camisas.webp';
 import pantalonesType from '../img/ropa/imgTipos/pantalones.webp';
@@ -25,7 +26,7 @@ const ContenedorSeccionBurbuja = styled(ContenedorPrincipal)`
 `;
 
 const ContenedorBurbuja = styled.div`
-    overflow-x: hidden; 
+    overflow-x: auto; 
     overflow-y: hidden; 
     width: 90%;
     max-width: 1200px;
@@ -36,6 +37,10 @@ const ContenedorBurbuja = styled.div`
     user-select: none;
     align-items: center;
     -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    ::-webkit-scrollbar {
+        display: none; 
+    }
 `;
 
 

@@ -1,6 +1,6 @@
 import './App.css';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import { FooterX } from './componentes/ComponentesPrincipales';
+
 import PaginaInicio  from './secciones/Paginas/PaginaPrincipal';
 import  PaginaNoDisponible  from './secciones/Paginas/PaginaNoDisponible';
 
@@ -13,7 +13,7 @@ function App() {
           <Route path='404' element={<PaginaNoDisponible />} />
         </Routes>
       </Router>
-      <FooterX />
+      
     </div>
 
   );

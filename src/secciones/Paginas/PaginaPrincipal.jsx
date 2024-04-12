@@ -2,6 +2,7 @@ import { PantallaPrincipal } from '../PantallaInicial';
 import { PantallaSeleccionGenero } from '../PantallaSeleccionGenero';
 import { PantallaSeleccionTipo } from '../PantallaSelectorTipo';
 import { PantallaEstaciones } from '../PantallaEstaciones';
+import { FooterX } from '../../componentes/ComponentesPrincipales';
 function PaginaInicio () {
   return (
     <>
@@ -9,7 +10,7 @@ function PaginaInicio () {
         <PantallaSeleccionGenero />
         <PantallaEstaciones /> 
         <PantallaSeleccionTipo />
-        
+        <FooterX />
     </>
   );
 }

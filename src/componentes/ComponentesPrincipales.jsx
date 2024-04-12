@@ -53,3 +53,26 @@ export const H3 = styled.h3`
     margin: 20px 0 0 0;
     text-align:center;
 `
+
+const ContenedorFooter = styled.div`
+    margin-top: 30px;
+    width: 100%;
+    height: auto;
+    display:flex;
+    padding: 30px 0;
+    justify-content:center;
+    
+    font-size: 18px;
+    color: black;
+    text-align:center;
+`
+export const FooterX = () =>{
+    return(
+        <ContenedorFooter>
+            Desarrollado por Ramón Castillo <br />  
+            Luisarraca@hotmail.com <br />  
+            6691382961
+
+        </ContenedorFooter>
+    )
+}

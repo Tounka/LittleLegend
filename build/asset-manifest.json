@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2940c9fb.css",
+    "main.js": "/static/js/main.a5107b0b.js",
+    "static/media/TiltNeon-Regular-VariableFont_XROT,YROT.ttf": "/static/media/TiltNeon-Regular-VariableFont_XROT,YROT.a97634d0d51330cd1691.ttf",
+    "static/media/imgPrincipal.webp": "/static/media/imgPrincipal.1b4ec63d9aafb091cbf7.webp",
+    "static/media/ImgBoy1.png": "/static/media/ImgBoy1.8ca58faee95c4f85de61.png",
+    "static/media/bgCardBoy_Girl.jpg": "/static/media/bgCardBoy_Girl.82cbb2e6f22a836f7bdc.jpg",
+    "static/media/ImgGirl3.png": "/static/media/ImgGirl3.4137cb669725299509bc.png",
+    "static/media/Primavera.jpg": "/static/media/Primavera.63a8e2671649bc1e4664.jpg",
+    "static/media/Otono.jpg": "/static/media/Otono.7c221594256220dc8c54.jpg",
+    "static/media/conjuntos.webp": "/static/media/conjuntos.37933e7658654b9e2a11.webp",
+    "static/media/ImgGirl4.png": "/static/media/ImgGirl4.30e8912c376f70f580f3.png",
+    "static/media/Invierno.jpg": "/static/media/Invierno.c4199636aee3d7841635.jpg",
+    "static/media/ImgBoy4.png": "/static/media/ImgBoy4.a283ef0dc7c1325ccdfc.png",
+    "static/media/Verano.jpg": "/static/media/Verano.655af4eb1faed031d9c1.jpg",
+    "static/media/ImgBoy2.png": "/static/media/ImgBoy2.5736030995240183bc3c.png",
+    "static/media/ImgGirl2.png": "/static/media/ImgGirl2.48a521e3c7d0695b5be1.png",
+    "static/media/ImgBoy3.png": "/static/media/ImgBoy3.fc48f4dbb26035df93d9.png",
+    "static/media/calcetines.webp": "/static/media/calcetines.c66a1d27c3cd1b2756d0.webp",
+    "static/media/ImgGirl1.png": "/static/media/ImgGirl1.33b49bee28dc050edd8c.png",
+    "static/media/pantalones.webp": "/static/media/pantalones.babeb2864349ec09632e.webp",
+    "static/media/camisetas.webp": "/static/media/camisetas.de0c865f1f106dfc0457.webp",
+    "static/media/camisas.webp": "/static/media/camisas.85eacd2dbf3a8bc4dd76.webp",
+    "static/media/mochilas.webp": "/static/media/mochilas.571ecbcd5bf9f0040c0e.webp",
+    "static/media/gorras.webp": "/static/media/gorras.c2f9eadf89b7486e4a35.webp",
+    "index.html": "/index.html",
+    "main.2940c9fb.css.map": "/static/css/main.2940c9fb.css.map",
+    "main.a5107b0b.js.map": "/static/js/main.a5107b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2940c9fb.css",
+    "static/js/main.a5107b0b.js"
+  ]
+}
